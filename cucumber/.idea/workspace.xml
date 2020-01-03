@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59d4ea98-0f26-44b5-993e-6bc9f97b0517" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UTOUd0gnypuLBAlVcf5L8M48It" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/bdd/cucumber/loyalty_cards" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bdd.cucumber.loyalty_cards" />
+      <recent name="bdd.cucumber.calculator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cnovoa\IdeaProjects\cucumber\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SignInUpTest">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bdd.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_191\jre" />
+      <option name="PACKAGE_NAME" value="bdd.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="bdd.cucumber.CalculatorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultitabTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.test.pom.MultitabTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInUpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.practice.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="automation.practice.test" />
+      <option name="MAIN_CLASS_NAME" value="automation.practice.test.SignInUpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuperSmoothieProgramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bdd.cucumber.loyalty_cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bdd.cucumber.loyalty_cards" />
+      <option name="MAIN_CLASS_NAME" value="bdd.cucumber.loyalty_cards.SuperSmoothieProgramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.test.pom in cucumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.pom" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SignInUpTest" />
+        <item itemvalue="JUnit.MultitabTest" />
+        <item itemvalue="JUnit.SuperSmoothieProgramTest" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.com.test.pom in cucumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59d4ea98-0f26-44b5-993e-6bc9f97b0517" name="Default Changelist" comment="" />
+      <created>1575377136138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575377136138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="186" key="#CalculatorTest" timestamp="1575405122423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="186" key="#CalculatorTest/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575405122423" />
+    <state x="552" y="177" key="#Inspections" timestamp="1575574469868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Inspections/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575574469868" />
+    <state x="552" y="177" key="#Project_Structure" timestamp="1576682191487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Project_Structure/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1576682191487" />
+    <state x="698" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575404342213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575404342213" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1577996762134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577996762134" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577125254697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577125254697" />
+    <state x="564" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577118406150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="564" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577118406150" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1575560811565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575560811565" />
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1578085799855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-104.1920.1040@-1920.-104.1920.1040" timestamp="1577740765223" />
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578085799855" />
+    <state width="1877" height="255" key="GridCell.Tab.0.center" timestamp="1578085799855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-104.1920.1040@-1920.-104.1920.1040" timestamp="1577740765222" />
+    <state width="1877" height="255" key="GridCell.Tab.0.center/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578085799855" />
+    <state width="1877" height="255" key="GridCell.Tab.0.left" timestamp="1578085799855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-104.1920.1040@-1920.-104.1920.1040" timestamp="1577740765222" />
+    <state width="1877" height="255" key="GridCell.Tab.0.left/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578085799855" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right" timestamp="1578085799855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="255" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-104.1920.1040@-1920.-104.1920.1040" timestamp="1577740765222" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1578085799855" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1577475647953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577475647953" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1577475647953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577475647953" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1577475647953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577475647953" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1577475647953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577475647953" />
+    <state x="440" y="93" key="SettingsEditor" timestamp="1575465626310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="SettingsEditor/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575465626310" />
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1577125632302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577125632302" />
+    <state x="779" y="348" key="export.test.results" timestamp="1577972374943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="348" key="export.test.results/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577972374943" />
+    <state x="342" y="214" key="new project wizard" timestamp="1575463645379">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="214" key="new project wizard/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575463645379" />
+    <state x="712" y="440" width="575" height="159" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1575560814681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="440" width="575" height="159" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575560814681" />
+    <state x="702" y="138" key="refactoring.ChangeSignatureDialog" timestamp="1575579051947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="138" key="refactoring.ChangeSignatureDialog/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1575579051947" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577716453618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.113.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1577716453618" />
+  </component>
+</project>
